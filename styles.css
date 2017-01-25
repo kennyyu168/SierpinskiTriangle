@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(200,200,200);
-    color: rgb(0,0,0);
+    background-image: url('cat af.jpg');
+    background-size:cover;
     font-family: "Open Sans", sans-serif;
     text-align: center;
 }
